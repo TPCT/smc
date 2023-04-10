@@ -1,0 +1,24 @@
+
+<case>
+    <ssn>29412032544372</ssn>
+    <firstName>محمد</firstName>
+    <secondName>عبد الله</secondName>
+    <thirdName>محمد</thirdName>
+    <fourthName>مصطفى</fourthName>
+    <city>أبنوب</city>
+    <address>شارع ابنوب</address>
+    <phoneNumber>0</phoneNumber>
+    <governorate>
+        <option checked="1" value="25">أسيوط</option>
+    </governorate>
+    <MaritalStatus>
+        <option checked="1" value="2">أعزب</option>
+    </MaritalStatus>
+    <Job>
+        <option checked="1" value="56">بدون عمل</option>
+    </Job>
+    <ddl>
+        <option checked="1" value="1">إعاقة حركية</option>
+    </ddl>
+    <note>تجربة</note>
+</case>
